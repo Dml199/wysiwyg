@@ -1,0 +1,21 @@
+*{
+    padding:0px;
+}
+#ifr{
+    position:absolute;
+    background-color:antiquewhite;
+    width:1600px;
+    height:2000px;
+    top:0px;
+    left:80px;
+    z-index:10;
+    padding:0px;
+    margin:0px;
+    box-shadow: 2px 2px 3px black;
+}
+
+
+iframe body {
+    margin:0px;
+    padding:0px;
+}

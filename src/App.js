@@ -1,24 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css"
+import Leftbar from "./pages/wysiwyg editor/leftbar/leftbar.js";
+import Iframe from "./pages/wysiwyg editor/iframe/iframe.js"
+import Props from "./pages/wysiwyg editor/prop_panel/properties.js"
+import "./props.css"
 
+//to this point
 function App() {
+
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div id="leftbar">
+       <Leftbar />
+       <Iframe/>
+        <div id = "prop_panel"></div>
+       
+       
     </div>
+    
   );
 }
 

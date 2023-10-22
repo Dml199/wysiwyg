@@ -1,0 +1,48 @@
+#func{
+background-color:rgb(235, 229, 226);
+border-radius:30px;
+position:absolute;
+z-index:11;
+top:200px;
+left:200px;
+box-shadow:1px 1px 5px rgb(116, 114, 114);
+
+}
+
+
+#func ul{
+    display:flex;
+    flex-direction: row;
+    list-style:none;
+    justify-content:center;
+
+}
+
+#func ul li{
+    background-color: rgb(209, 205, 200);
+    border-radius:20px;
+    box-shadow:1px 2px 9px rgb(105, 104, 104);
+    margin:10px;
+    margin-top:-5px;
+    margin-bottom:-5px;
+}
+
+
+#func img{
+    
+    width:20px;
+    height:20px;
+    padding:5px;
+
+    
+    
+
+}
+
+
+#func ul li:hover{
+    transition: all 0.3s;
+    background-color: rgb(175, 172, 169);
+    border-radius:20px;
+}
+
