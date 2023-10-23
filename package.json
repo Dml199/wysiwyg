@@ -10,7 +10,8 @@
     "react-color": "^2.19.3",
     "react-dom": "^18.2.0",
     "react-scripts": "^5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "homepage": "http://dml199.github.io/wysiwyg"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -19,7 +20,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "homepage": "http://dml199.github.io/wysiwyg"
+   
   },
   "eslintConfig": {
     "extends": [
