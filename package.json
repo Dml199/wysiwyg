@@ -19,7 +19,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "homepage": "https://dml199.github.io/wysiwyg/public/index.html"
+    "homepage": "http://dml199.github.io/wysiwyg"
   },
   "eslintConfig": {
     "extends": [
