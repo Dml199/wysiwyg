@@ -3,7 +3,7 @@ import { Style } from "../Classes/styleManager/styleManger.js";
 import { FileManager } from "../Classes/fileManager/fileManager.js";
 import { VAR } from "../Classes/CONSTANTS.js";
 import { Elem_func_append,Elem_func_remove } from "../Classes/Element_func/Element_func.js";
-import createProps from "../prop_panel/properties.js";
+import {createProps} from "../prop_panel/properties.js";
 
 import "../Classes/Element_func/Element_func.css";
 

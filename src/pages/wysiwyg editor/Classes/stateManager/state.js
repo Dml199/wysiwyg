@@ -8,6 +8,9 @@ this.lastElement= null;
 this.shiftX=null;
 this.shiftY=null;
 this.isResizing=false;
+this.props_div=null;
+this.oldValue=null;
+this.container_div_props=null;
 }
 
     setContainer (container) {this.container= container;
