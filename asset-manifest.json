@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.10379630.css",
-    "main.js": "/static/js/main.9d119525.js",
-    "static/js/787.12fc4cee.chunk.js": "/static/js/787.12fc4cee.chunk.js",
-    "static/media/resize.svg": "/static/media/resize.7ce7a2198611b71886c3afba57ac3a12.svg",
-    "static/media/Applications.svg": "/static/media/Applications.7d740922edf7b76ac51a30315e0938fa.svg",
-    "static/media/Site coloring.svg": "/static/media/Site coloring.2cab912549e1a83254f66504e3c53bcf.svg",
-    "static/media/Custom themes.svg": "/static/media/Custom themes.046fc4523b1887e30a68f58354ca95f6.svg",
-    "static/media/Sections.svg": "/static/media/Sections.07504c2fcc31fb74b1ea10a007aaa7a8.svg",
-    "static/media/Pages.svg": "/static/media/Pages.11226634ddf053ffda61ffd666cde3eb.svg",
-    "static/media/Add.svg": "/static/media/Add.03518c2cd3d38e33792e225c0a004c9d.svg",
-    "static/media/delete.svg": "/static/media/delete.10f55b8c95357046a04c5c13804b7f19.svg",
-    "static/media/editable.svg": "/static/media/editable.79e7f8ce4923124c3f725364d547b881.svg",
-    "index.html": "/index.html",
-    "static/media/crop.svg": "/static/media/crop.69faaffe1185c00166006541820e88fd.svg",
-    "main.10379630.css.map": "/static/css/main.10379630.css.map",
-    "main.9d119525.js.map": "/static/js/main.9d119525.js.map",
-    "787.12fc4cee.chunk.js.map": "/static/js/787.12fc4cee.chunk.js.map"
+    "main.css": "/wysiwyg/static/css/main.10379630.css",
+    "main.js": "/wysiwyg/static/js/main.36af94f5.js",
+    "static/js/787.12fc4cee.chunk.js": "/wysiwyg/static/js/787.12fc4cee.chunk.js",
+    "static/media/resize.svg": "/wysiwyg/static/media/resize.7ce7a2198611b71886c3afba57ac3a12.svg",
+    "static/media/Applications.svg": "/wysiwyg/static/media/Applications.7d740922edf7b76ac51a30315e0938fa.svg",
+    "static/media/Site coloring.svg": "/wysiwyg/static/media/Site coloring.2cab912549e1a83254f66504e3c53bcf.svg",
+    "static/media/Custom themes.svg": "/wysiwyg/static/media/Custom themes.046fc4523b1887e30a68f58354ca95f6.svg",
+    "static/media/Sections.svg": "/wysiwyg/static/media/Sections.07504c2fcc31fb74b1ea10a007aaa7a8.svg",
+    "static/media/Pages.svg": "/wysiwyg/static/media/Pages.11226634ddf053ffda61ffd666cde3eb.svg",
+    "static/media/Add.svg": "/wysiwyg/static/media/Add.03518c2cd3d38e33792e225c0a004c9d.svg",
+    "static/media/delete.svg": "/wysiwyg/static/media/delete.10f55b8c95357046a04c5c13804b7f19.svg",
+    "static/media/editable.svg": "/wysiwyg/static/media/editable.79e7f8ce4923124c3f725364d547b881.svg",
+    "index.html": "/wysiwyg/index.html",
+    "static/media/crop.svg": "/wysiwyg/static/media/crop.69faaffe1185c00166006541820e88fd.svg",
+    "main.10379630.css.map": "/wysiwyg/static/css/main.10379630.css.map",
+    "main.36af94f5.js.map": "/wysiwyg/static/js/main.36af94f5.js.map",
+    "787.12fc4cee.chunk.js.map": "/wysiwyg/static/js/787.12fc4cee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10379630.css",
-    "static/js/main.9d119525.js"
+    "static/js/main.36af94f5.js"
   ]
 }
